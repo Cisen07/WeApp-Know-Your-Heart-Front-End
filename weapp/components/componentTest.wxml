@@ -1,0 +1,4 @@
+
+<view class="list">
+   This component is not used. because list is an aliasField in package.json
+</view>

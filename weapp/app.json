@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/index",
+        "pages/pageLearning"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "networkTimeout": {
+        "request": 600000
+    }
+}

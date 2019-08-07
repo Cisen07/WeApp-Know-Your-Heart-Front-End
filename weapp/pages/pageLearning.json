@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "This is a new Page!",
+    "component": true,
+    "usingComponents": {
+        "componentTest": "../components/componentTest"
+    }
+}

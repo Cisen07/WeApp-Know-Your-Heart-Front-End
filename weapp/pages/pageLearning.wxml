@@ -1,0 +1,28 @@
+
+<view>
+  <view class="container">
+    <button data-wpy-evt="8-35" bindtap="_proxy">POST测试</button>
+  </view>
+
+
+
+  <view class="container">
+    <view>
+      <form data-wpy-evt="8-36" bindsubmit="_proxy">
+        <label data-wpy-evt="8-37" bindtap="_proxy">点击选择图片</label>
+        <image src="{{photos}}"></image>
+        <button form-type="submit">提交</button>
+      </form>
+    </view>
+  </view>
+  <view class="container">
+    <view>
+      <form data-wpy-evt="8-38" bindsubmit="_proxy">
+        <label data-wpy-evt="8-39" bindtap="_proxy">点击选择视频</label>
+        <image src="{{video}}"></image>
+        <button form-type="submit">提交</button>
+        <button data-wpy-evt="8-40" bindtap="_proxy">心率获取测试</button>
+      </form>
+    </view>
+  </view>
+</view>
